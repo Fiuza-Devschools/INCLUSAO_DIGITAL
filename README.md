@@ -12,7 +12,7 @@ A interface disponível neste repositório é apenas uma **prévia inicial do pr
 >
 > **Estamos realizando uma pesquisa para entender melhor as dificuldades dos idosos com a tecnologia.**
 >
-> 👉 **[RESPONDA AO FORMULÁRIO DA PESQUISA](COLE-O-LINK-AQUI)**
+> 👉 **[RESPONDA AO FORMULÁRIO DA PESQUISA] https://docs.google.com/forms/d/e/1FAIpQLScakk99jBwLNehtKeqmEIs-t8GwexbvXQwUxXJo9HdXNCPgUA/viewform?usp=publish-editor**
 >
 > Os resultados serão utilizados para orientar o desenvolvimento do site.
 
